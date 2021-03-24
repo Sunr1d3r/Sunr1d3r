@@ -1,6 +1,6 @@
 👋Hi there 
 
-- 👋I’m @Sunr1d3r aka "Jack of all trades, master of none (often better than master of one ;) )."
+- 🤘🏼 I’m @Sunr1d3r a.k.a. "Jack of all trades, master of none (often better than master of one ;) )."
 - 👀 I’m interested in ... too many things!
 - 🔭 I’m currently working on ... finishing this nanodegree thing and creating my own website. 
 - 🌱 I’m currently learning ... JS and DOM. 
